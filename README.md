@@ -8,5 +8,4 @@ Swiper - is the free and most modern mobile touch slider with hardware accelerat
 
 Swiper is not compatible with all platforms, it is a modern touch slider which is focused only on modern apps/platforms to bring the best experience and simplicity.
 
-# Getting Started
-  * [Getting Started Guide
+
